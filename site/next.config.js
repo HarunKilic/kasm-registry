@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Novuslab',
     description: 'Custom workspaces for development.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/HarunKilic/kasm-registry/',
+    listUrl: 'https://harunkilic.github.io/kasm-registry/',
     contactUrl: 'https://github.com/HarunKilic/kasm-registry/issues',
   },
   reactStrictMode: true,
