@@ -16,19 +16,18 @@
   "categories": [
     "Browser"
   ],
-  "friendly_name": "Chromium TEST",
+  "friendly_name": "Chromium",
   "architecture": [
     "amd64",
     "arm64"
   ],
   "compatibility": [
     {
-      "version": "1.16.x",
+      "version": "1.17.x",
       "image": "kasmweb/chromium:1.16.1-rolling-daily",
       "uncompressed_size_mb": 2170,
       "available_tags": [
-        "develop",
-        "1.16.0"
+        "develop"
       ]
     }
   ]
