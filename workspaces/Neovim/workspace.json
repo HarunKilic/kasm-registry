@@ -17,6 +17,11 @@
   },
   "categories": ["Development", "Desktop", "Productivity"],
   "architecture": ["amd64"],
-  "compatibility": ["1.18.x"],
-  "uncompressed_size_mb": 12700
+  "compatibility": [
+    {
+      "version": "1.18.x",
+      "image": "doctorwhen/kasm:neovim",
+      "uncompressed_size_mb": 12700
+    }
+  ]
 }
